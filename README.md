@@ -20,10 +20,18 @@ Installation :
  - Se placer dans le dossier DEV/
  - compiler le ficher c++ : ./compile.sh temperature.cpp
  - activer le capteur : sudo ./temperature
+ 
+# API rest to MySQL
+
+Open SSH connection with the Raspbery Pi 3.
+
+Go on repertory '.\DEV\frontEnd\nodejs-restapi', and run `node .\server.js`
 
 # SysEmbarque
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+
+All of the shell commands below must be done in sysEmbarque repertory ( `cd .\sysEmbarque` ).
 
 ## Development server
 
