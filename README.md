@@ -1,6 +1,6 @@
 ﻿# e-sante
  
- Regardez la [vidéo](https://drive.google.com/file/d/1WvZFkxHnMCOX22r3o8ENpv2GjsOVGWdT/view?usp=sharing) de démonstration de la solution proposée.
+ Regardez la [vidéo](https://drive.google.com/uc?authuser=0&id=1WvZFkxHnMCOX22r3o8ENpv2GjsOVGWdT&export=download) de démonstration de la solution proposée.
 
 Matériels nécessaires : 
 - 
